@@ -47,6 +47,8 @@ import androidx.annotation.RequiresApi;
 
 @SuppressWarnings("UnusedDeclaration")
 public class CircleImageView extends ImageView {
+    
+    //주석
 
     private static final ScaleType SCALE_TYPE = ScaleType.CENTER_CROP;
 
